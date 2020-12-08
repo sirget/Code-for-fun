@@ -1,0 +1,235 @@
+Zone,goback,Num,IdTrain,NameFee,StStart,NameSt,StFinal,NameSt_L,NameStEng,NameStEng_L,Service
+1,1,0,997,เร็ว,1001,กรุงเทพ,3047,บ้านพลูตาหลวง,Bangkok,Ban Plu Ta Luang,FALSE
+1,1,1,1049,ธรรมดา,1001,กรุงเทพ,1007,ชุมทางบางซื่อ,Bangkok,Bang Sue Junction,TRUE
+1,1,1,379,ธรรมดา,3001,มักกะสัน,3015,หัวตะเข้,Makkasan,Hua Takhe,FALSE
+1,1,2,1053,ธรรมดา,1001,กรุงเทพ,1007,ชุมทางบางซื่อ,Bangkok,Bang Sue Junction,TRUE
+1,1,4,283,ธรรมดา,1001,กรุงเทพ,3047,บ้านพลูตาหลวง,Bangkok,Ban Plu Ta Luang,FALSE
+1,1,5,285,ธรรมดา,1001,กรุงเทพ,3023,ชุมทางฉะเชิงเทรา,Bangkok,Chachoengsao Junction,FALSE
+1,1,6,281,ธรรมดา,1001,กรุงเทพ,3075,กบินทร์บุรี,Bangkok,Kabin Buri,FALSE
+1,1,7,367,ธรรมดา,1001,กรุงเทพ,3023,ชุมทางฉะเชิงเทรา,Bangkok,Chachoengsao Junction,FALSE
+1,1,9,389,พิเศษชานเมือง,1001,กรุงเทพ,3023,ชุมทางฉะเชิงเทรา,Bangkok,Chachoengsao Junction,FALSE
+1,1,11,277,ธรรมดา,1001,กรุงเทพ,3075,กบินทร์บุรี,Bangkok,Kabin Buri,FALSE
+1,1,12,391,พิเศษชานเมือง,1001,กรุงเทพ,3023,ชุมทางฉะเชิงเทรา,Bangkok,Chachoengsao Junction,FALSE
+1,1,13,383,ธรรมดา,1001,กรุงเทพ,3023,ชุมทางฉะเชิงเทรา,Bangkok,Chachoengsao Junction,FALSE
+1,1,14,371,ธรรมดา,1001,กรุงเทพ,3066,ปราจีนบุรี,Bangkok,Prachin Buri,FALSE
+1,1,15,381,ธรรมดา,1001,กรุงเทพ,3023,ชุมทางฉะเชิงเทรา,Bangkok,Chachoengsao Junction,FALSE
+1,1,16,385,ธรรมดา,1001,กรุงเทพ,3023,ชุมทางฉะเชิงเทรา,Bangkok,Chachoengsao Junction,FALSE
+1,2,0,998,เร็ว,3047,บ้านพลูตาหลวง,1001,กรุงเทพ,Ban Plu Ta Luang,Bangkok,FALSE
+1,2,1,380,ธรรมดา,3015,หัวตะเข้,1001,กรุงเทพ,Hua Takhe,Bangkok,FALSE
+1,2,2,384,ธรรมดา,3023,ชุมทางฉะเชิงเทรา,1001,กรุงเทพ,Chachoengsao Junction,Bangkok,FALSE
+1,2,3,372,ธรรมดา,3066,ปราจีนบุรี,1001,กรุงเทพ,Prachin Buri,Bangkok,FALSE
+1,2,4,388,พิเศษชานเมือง,3023,ชุมทางฉะเชิงเทรา,1001,กรุงเทพ,Chachoengsao Junction,Bangkok,FALSE
+1,2,5,378,ธรรมดา,3015,หัวตะเข้,1001,กรุงเทพ,Hua Takhe,Bangkok,FALSE
+1,2,7,278,ธรรมดา,3075,กบินทร์บุรี,1001,กรุงเทพ,Kabin Buri,Bangkok,FALSE
+1,2,8,280,ธรรมดา,3130,ด่านพรมแดนบ้านคลองลึก,1001,กรุงเทพ,Ban Klong Luk Border,Bangkok,FALSE
+1,2,9,368,ธรรมดา,3023,ชุมทางฉะเชิงเทรา,1001,กรุงเทพ,Chachoengsao Junction,Bangkok,FALSE
+1,2,10,390,พิเศษชานเมือง,3023,ชุมทางฉะเชิงเทรา,1001,กรุงเทพ,Chachoengsao Junction,Bangkok,FALSE
+1,2,11,282,ธรรมดา,3075,กบินทร์บุรี,1001,กรุงเทพ,Kabin Buri,Bangkok,FALSE
+1,2,12,284,ธรรมดา,3047,บ้านพลูตาหลวง,1001,กรุงเทพ,Ban Plu Ta Luang,Bangkok,FALSE
+1,2,13,286,ธรรมดา,3023,ชุมทางฉะเชิงเทรา,1001,กรุงเทพ,Chachoengsao Junction,Bangkok,FALSE
+1,2,14,276,ธรรมดา,3130,ด่านพรมแดนบ้านคลองลึก,1001,กรุงเทพ,Ban Klong Luk Border,Bangkok,FALSE
+1,2,15,386,ธรรมดา,3023,ชุมทางฉะเชิงเทรา,1001,กรุงเทพ,Chachoengsao Junction,Bangkok,FALSE
+1,2,16,394,ธรรมดา,3023,ชุมทางฉะเชิงเทรา,1001,กรุงเทพ,Chachoengsao Junction,Bangkok,FALSE
+2,1,0,9075,ด่วน,1001,กรุงเทพ,2209,หนองคาย,Bangkok,Nong Khai ,TRUE
+2,1,0,9071,ด่วน,1001,กรุงเทพ,2290,อุบลราชธานี,Bangkok,Ubon Ratchathani,TRUE
+2,1,1,423,ท้องถิ่น,2246,ลำชี,2261,สำโรงทาบ,Lam Chi,Samrong Thap,FALSE
+2,1,2,425,ท้องถิ่น,2246,ลำชี,2290,อุบลราชธานี,Lam Chi,Ubon Ratchathani,FALSE
+2,1,3,339,ชานเมือง,1001,กรุงเทพ,2011,ชุมทางแก่งคอย,Bangkok,Kaeng Khoi Junction,FALSE
+2,1,4,21,ด่วนพิเศษ,1001,กรุงเทพ,2290,อุบลราชธานี,Bangkok,Ubon Ratchathani,FALSE
+2,1,5,421,ท้องถิ่น,2114,นครราชสีมา,2290,อุบลราชธานี,Nakhon Ratchasima,Ubon Ratchathani,FALSE
+2,1,6,135,เร็ว,1001,กรุงเทพ,2290,อุบลราชธานี,Bangkok,Ubon Ratchathani,FALSE
+2,1,7,231,ธรรมดา,1001,กรุงเทพ,2114,นครราชสีมา,Bangkok,Nakhon Ratchasima,FALSE
+2,1,8,71,ด่วน,1001,กรุงเทพ,2290,อุบลราชธานี,Bangkok,Ubon Ratchathani,FALSE
+2,1,9,419,ท้องถิ่น,2114,นครราชสีมา,2290,อุบลราชธานี,Nakhon Ratchasima,Ubon Ratchathani,FALSE
+2,1,10,233,ธรรมดา,1001,กรุงเทพ,2248,สุรินทร์,Bangkok,Surin,FALSE
+2,1,11,427,ท้องถิ่น,2114,นครราชสีมา,2290,อุบลราชธานี,Nakhon Ratchasima,Ubon Ratchathani,FALSE
+2,1,12,145,เร็ว,1001,กรุงเทพ,2290,อุบลราชธานี,Bangkok,Ubon Ratchathani,FALSE
+2,1,13,341,ชานเมือง,1001,กรุงเทพ,2011,ชุมทางแก่งคอย,Bangkok,Kaeng Khoi Junction,FALSE
+2,1,14,343,ชานเมือง,1001,กรุงเทพ,2011,ชุมทางแก่งคอย,Bangkok,Kaeng Khoi Junction,FALSE
+2,1,15,139,เร็ว,1001,กรุงเทพ,2290,อุบลราชธานี,Bangkok,Ubon Ratchathani,FALSE
+2,1,16,23,ด่วนพิเศษ CNR,1001,กรุงเทพ,2290,อุบลราชธานี,Bangkok,Ubon Ratchathani,FALSE
+2,1,16,67,ด่วน,1001,กรุงเทพ,2290,อุบลราชธานี,Bangkok,Ubon Ratchathani,FALSE
+2,1,18,141,เร็ว,1001,กรุงเทพ,2290,อุบลราชธานี,Bangkok,Ubon Ratchathani,TRUE
+2,1,19,143,เร็ว,1001,กรุงเทพ,2290,อุบลราชธานี,Bangkok,Ubon Ratchathani,TRUE
+2,1,20,431,ท้องถิ่น,2011,ชุมทางแก่งคอย,2163,ขอนแก่น,Kaeng Khoi Junction,Khon Kaen,FALSE
+2,1,21,433,ท้องถิ่น,2011,ชุมทางแก่งคอย,2136,ชุมทางบัวใหญ่,Kaeng Khoi Junction,Bua Yai Junction,FALSE
+2,1,22,137,เร็ว,1001,กรุงเทพ,2209,หนองคาย,Bangkok,Nong Khai ,TRUE
+2,1,23,415,ท้องถิ่น,2114,นครราชสีมา,2305,ตลาดหนองคาย,Nakhon Ratchasima,Talat Nong Khai,FALSE
+2,1,24,75,ด่วน,1001,กรุงเทพ,2195,อุดรธานี,Bangkok,Udon Thani,FALSE
+2,1,25,439,ท้องถิ่น,2011,ชุมทางแก่งคอย,2136,ชุมทางบัวใหญ่,Kaeng Khoi Junction,Bua Yai Junction,FALSE
+2,1,26,417,ท้องถิ่น,2114,นครราชสีมา,2195,อุดรธานี,Nakhon Ratchasima,Udon Thani,FALSE
+2,1,27,437,ท้องถิ่น,2011,ชุมทางแก่งคอย,2033,ลำนารายณ์,Kaeng Khoi Junction,Lam Narai,FALSE
+2,1,28,429,ท้องถิ่น,2114,นครราชสีมา,2136,ชุมทางบัวใหญ่,Nakhon Ratchasima,Bua Yai Junction,FALSE
+2,1,29,77,ด่วน,1001,กรุงเทพ,2209,หนองคาย,Bangkok,Nong Khai ,TRUE
+2,1,30,133,เร็ว,1001,กรุงเทพ,2209,หนองคาย,Bangkok,Nong Khai ,FALSE
+2,1,31,69,ด่วน,1001,กรุงเทพ,2209,หนองคาย,Bangkok,Nong Khai ,TRUE
+2,1,32,235,ธรรมดา,2248,สุรินทร์,2246,ลำชี,Surin,Lam Chi,FALSE
+2,1,33,25,ด่วนพิเศษ CNR,1001,กรุงเทพ,2209,หนองคาย,Bangkok,Nong Khai ,FALSE
+2,2,0,9076,ด่วน,2209,หนองคาย,1001,กรุงเทพ,Nong Khai ,Bangkok,TRUE
+2,2,0,9072,ด่วน,2290,อุบลราชธานี,1001,กรุงเทพ,Ubon Ratchathani,Bangkok,TRUE
+2,2,1,144,เร็ว,2290,อุบลราชธานี,1001,กรุงเทพ,Ubon Ratchathani,Bangkok,TRUE
+2,2,2,142,เร็ว,2290,อุบลราชธานี,1001,กรุงเทพ,Ubon Ratchathani,Bangkok,TRUE
+2,2,3,74,ด่วน,2273,ศรีสะเกษ,1001,กรุงเทพ,Si Sa Ket,Bangkok,TRUE
+2,2,4,24,ด่วนพิเศษ CNR,2290,อุบลราชธานี,1001,กรุงเทพ,Ubon Ratchathani,Bangkok,FALSE
+2,2,4,68,ด่วน,2290,อุบลราชธานี,1001,กรุงเทพ,Ubon Ratchathani,Bangkok,FALSE
+2,2,5,140,เร็ว,2290,อุบลราชธานี,1001,กรุงเทพ,Ubon Ratchathani,Bangkok,TRUE
+2,2,6,344,ชานเมือง,2011,ชุมทางแก่งคอย,1001,กรุงเทพ,Kaeng Khoi Junction,Bangkok,FALSE
+2,2,7,342,ชานเมือง,2011,ชุมทางแก่งคอย,1001,กรุงเทพ,Kaeng Khoi Junction,Bangkok,FALSE
+2,2,8,424,ท้องถิ่น,2261,สำโรงทาบ,2114,นครราชสีมา,Samrong Thap,Nakhon Ratchasima,FALSE
+2,2,9,340,ชานเมือง,2011,ชุมทางแก่งคอย,1001,กรุงเทพ,Kaeng Khoi Junction,Bangkok,FALSE
+2,2,10,428,ท้องถิ่น,2290,อุบลราชธานี,2114,นครราชสีมา,Ubon Ratchathani,Nakhon Ratchasima,FALSE
+2,2,11,234,ธรรมดา,2248,สุรินทร์,1001,กรุงเทพ,Surin,Bangkok,FALSE
+2,2,12,72,ด่วน,2290,อุบลราชธานี,1001,กรุงเทพ,Ubon Ratchathani,Bangkok,FALSE
+2,2,13,136,เร็ว,2290,อุบลราชธานี,1001,กรุงเทพ,Ubon Ratchathani,Bangkok,FALSE
+2,2,14,426,ท้องถิ่น,2290,อุบลราชธานี,2114,นครราชสีมา,Ubon Ratchathani,Nakhon Ratchasima,FALSE
+2,2,15,422,ท้องถิ่น,2290,อุบลราชธานี,2246,ลำชี,Ubon Ratchathani,Lam Chi,FALSE
+2,2,16,146,เร็ว,2290,อุบลราชธานี,1001,กรุงเทพ,Ubon Ratchathani,Bangkok,FALSE
+2,2,17,420,ท้องถิ่น,2290,อุบลราชธานี,2246,ลำชี,Ubon Ratchathani,Lam Chi,FALSE
+2,2,18,232,ธรรมดา,2114,นครราชสีมา,1001,กรุงเทพ,Nakhon Ratchasima,Bangkok,FALSE
+2,2,19,22,ด่วนพิเศษ,2290,อุบลราชธานี,1001,กรุงเทพ,Ubon Ratchathani,Bangkok,FALSE
+2,2,20,78,ด่วน,2195,อุดรธานี,1001,กรุงเทพ,Udon Thani,Bangkok,TRUE
+2,2,21,70,ด่วน,2209,หนองคาย,1001,กรุงเทพ,Nong Khai ,Bangkok,TRUE
+2,2,22,134,เร็ว,2209,หนองคาย,1001,กรุงเทพ,Nong Khai ,Bangkok,FALSE
+2,2,23,430,ท้องถิ่น,2136,ชุมทางบัวใหญ่,2114,นครราชสีมา,Bua Yai Junction,Nakhon Ratchasima,FALSE
+2,2,24,438,ท้องถิ่น,2033,ลำนารายณ์,2011,ชุมทางแก่งคอย,Lam Narai,Kaeng Khoi Junction,FALSE
+2,2,25,416,ท้องถิ่น,2195,อุดรธานี,2114,นครราชสีมา,Udon Thani,Nakhon Ratchasima,FALSE
+2,2,26,440,ท้องถิ่น,2136,ชุมทางบัวใหญ่,2011,ชุมทางแก่งคอย,Bua Yai Junction,Kaeng Khoi Junction,FALSE
+2,2,27,76,ด่วน,2209,หนองคาย,1001,กรุงเทพ,Nong Khai ,Bangkok,FALSE
+2,2,28,434,ท้องถิ่น,2136,ชุมทางบัวใหญ่,2011,ชุมทางแก่งคอย,Bua Yai Junction,Kaeng Khoi Junction,FALSE
+2,2,29,418,ท้องถิ่น,2305,ตลาดหนองคาย,2114,นครราชสีมา,Talat Nong Khai,Nakhon Ratchasima,FALSE
+2,2,30,138,เร็ว,2209,หนองคาย,1001,กรุงเทพ,Nong Khai ,Bangkok,TRUE
+2,2,31,432,ท้องถิ่น,2163,ขอนแก่น,2011,ชุมทางแก่งคอย,Khon Kaen,Kaeng Khoi Junction,FALSE
+2,2,33,236,ธรรมดา,2246,ลำชี,2248,สุรินทร์,Lam Chi,Surin,FALSE
+2,2,34,26,ด่วนพิเศษ CNR,2209,หนองคาย,1001,กรุงเทพ,Nong Khai ,Bangkok,FALSE
+3,1,0,9051,ด่วน,1001,กรุงเทพ,1222,เชียงใหม่,Bangkok,Chiang Mai,TRUE
+3,1,1,303,ชานเมือง,1001,กรุงเทพ,1050,ลพบุรี,Bangkok,Lop Buri,FALSE
+3,1,2,311,ชานเมือง,1001,กรุงเทพ,1021,รังสิต,Bangkok,Rangsit,FALSE
+3,1,3,407,ท้องถิ่น,1082,นครสวรรค์,1222,เชียงใหม่,Nakhon Sawan,Chiang Mai,FALSE
+3,1,4,101,เร็ว,1001,กรุงเทพ,1222,เชียงใหม่,Bangkok,Chiang Mai,TRUE
+3,1,5,403,ท้องถิ่น,1118,พิษณุโลก,1151,ศิลาอาสน์,Phitsanulok,Sila At ,FALSE
+3,1,5,376,ชานเมือง,1021,รังสิต,3015,หัวตะเข้,Rangsit,Hua Takhe,FALSE
+3,1,6,409,ท้องถิ่น,1031,อยุธยา,1050,ลพบุรี,Ayutthaya,Lop Buri,FALSE
+3,1,7,401,ท้องถิ่น,1050,ลพบุรี,1118,พิษณุโลก,Lop Buri,Phitsanulok,FALSE
+3,1,8,111,เร็ว,1001,กรุงเทพ,1164,เด่นชัย,Bangkok,Den Chai,FALSE
+3,1,9,7,ด่วนพิเศษ,1001,กรุงเทพ,1222,เชียงใหม่,Bangkok,Chiang Mai,FALSE
+3,1,10,201,ธรรมดา,1001,กรุงเทพ,1118,พิษณุโลก,Bangkok,Phitsanulok,FALSE
+3,1,11,3,ด่วนพิเศษ,1001,กรุงเทพ,1143,สวรรคโลก,Bangkok,Sawankhalok,TRUE
+3,1,12,209,ธรรมดา,1001,กรุงเทพ,1067,บ้านตาคลี,Bangkok,Ban Takhli,FALSE
+3,1,13,211,ธรรมดา,1001,กรุงเทพ,1099,ตะพานหิน,Bangkok,Taphan Hin,FALSE
+3,1,14,207,ธรรมดา,1001,กรุงเทพ,1082,นครสวรรค์,Bangkok,Nakhon Sawan,FALSE
+3,1,15,109,เร็ว,1001,กรุงเทพ,1172,บ้านปิน,Bangkok,Ban Pin,FALSE
+3,1,16,315,ชานเมือง,1001,กรุงเทพ,1050,ลพบุรี,Bangkok,Lop Buri,FALSE
+3,1,17,301,ชานเมือง,1001,กรุงเทพ,1050,ลพบุรี,Bangkok,Lop Buri,FALSE
+3,1,18,313,ชานเมือง,1001,กรุงเทพ,1036,ชุมทางบ้านภาชี,Bangkok,Ban Phachi Junction,FALSE
+3,1,19,317,ชานเมือง,1001,กรุงเทพ,1050,ลพบุรี,Bangkok,Lop Buri,FALSE
+3,1,20,9,ด่วนพิเศษ CNR,1001,กรุงเทพ,1222,เชียงใหม่,Bangkok,Chiang Mai,FALSE
+3,1,21,305,ชานเมือง,1001,กรุงเทพ,1031,อยุธยา,Bangkok,Ayutthaya,FALSE
+3,1,22,11,ด่วนพิเศษ,1001,กรุงเทพ,1222,เชียงใหม่,Bangkok,Chiang Mai,TRUE
+3,1,23,13,*ด่วนพิเศษ,1001,กรุงเทพ,1222,เชียงใหม่,Bangkok,Chiang Mai,FALSE
+3,1,24,105,เร็ว,1001,กรุงเทพ,1151,ศิลาอาสน์,Bangkok,Sila At ,TRUE
+3,1,25,107,เร็ว,1001,กรุงเทพ,1164,เด่นชัย,Bangkok,Den Chai,FALSE
+3,1,26,115,เร็ว,1001,กรุงเทพ,1118,พิษณุโลก,Bangkok,Phitsanulok,TRUE
+3,1,27,51,ด่วน,1001,กรุงเทพ,1222,เชียงใหม่,Bangkok,Chiang Mai,FALSE
+3,2,0,9052,ด่วน,1222,เชียงใหม่,1001,กรุงเทพ,Chiang Mai,Bangkok,TRUE
+3,2,1,116,เร็ว,1118,พิษณุโลก,1001,กรุงเทพ,Phitsanulok,Bangkok,TRUE
+3,2,2,4,ด่วนพิเศษ,1143,สวรรคโลก,1001,กรุงเทพ,Sawankhalok,Bangkok,TRUE
+3,2,3,108,เร็ว,1164,เด่นชัย,1001,กรุงเทพ,Den Chai,Bangkok,FALSE
+3,2,4,52,ด่วน,1222,เชียงใหม่,1001,กรุงเทพ,Chiang Mai,Bangkok,FALSE
+3,2,5,14,*ด่วนพิเศษ,1222,เชียงใหม่,1001,กรุงเทพ,Chiang Mai,Bangkok,FALSE
+3,2,7,314,ชานเมือง,1036,ชุมทางบ้านภาชี,1001,กรุงเทพ,Ban Phachi Junction,Bangkok,FALSE
+3,2,8,306,พิเศษชานเมือง,1031,อยุธยา,1001,กรุงเทพ,Ayutthaya,Bangkok,FALSE
+3,2,9,316,ชานเมือง,1050,ลพบุรี,1001,กรุงเทพ,Lop Buri,Bangkok,FALSE
+3,2,10,302,ชานเมือง,1050,ลพบุรี,1001,กรุงเทพ,Lop Buri,Bangkok,FALSE
+3,2,11,10,ด่วนพิเศษ CNR,1222,เชียงใหม่,1001,กรุงเทพ,Chiang Mai,Bangkok,FALSE
+3,2,12,318,ชานเมือง,1050,ลพบุรี,1001,กรุงเทพ,Lop Buri,Bangkok,FALSE
+3,2,13,208,ธรรมดา,1082,นครสวรรค์,1001,กรุงเทพ,Nakhon Sawan,Bangkok,FALSE
+3,2,14,304,ชานเมือง,1050,ลพบุรี,1001,กรุงเทพ,Lop Buri,Bangkok,FALSE
+3,2,15,110,เร็ว,1222,เชียงใหม่,1001,กรุงเทพ,Chiang Mai,Bangkok,TRUE
+3,2,17,202,ธรรมดา,1118,พิษณุโลก,1001,กรุงเทพ,Phitsanulok,Bangkok,FALSE
+3,2,17,212,ธรรมดา,1099,ตะพานหิน,1001,กรุงเทพ,Taphan Hin,Bangkok,FALSE
+3,2,18,106,เร็ว,1151,ศิลาอาสน์,1001,กรุงเทพ,Sila At ,Bangkok,TRUE
+3,2,19,112,เร็ว,1164,เด่นชัย,1001,กรุงเทพ,Den Chai,Bangkok,FALSE
+3,2,20,410,ท้องถิ่น,1151,ศิลาอาสน์,1118,พิษณุโลก,Sila At ,Phitsanulok,FALSE
+3,2,21,402,ท้องถิ่น,1118,พิษณุโลก,1050,ลพบุรี,Phitsanulok,Lop Buri,FALSE
+3,2,22,408,ท้องถิ่น,1222,เชียงใหม่,1082,นครสวรรค์,Chiang Mai,Nakhon Sawan,FALSE
+3,2,23,8,ด่วนพิเศษ,1222,เชียงใหม่,1001,กรุงเทพ,Chiang Mai,Bangkok,FALSE
+3,2,24,102,เร็ว,1222,เชียงใหม่,1001,กรุงเทพ,Chiang Mai,Bangkok,FALSE
+3,2,25,210,ธรรมดา,1067,บ้านตาคลี,1001,กรุงเทพ,Ban Takhli,Bangkok,FALSE
+4,1,0,479,ชานเมือง,4002,ธนบุรี,4009,ศาลายา,Thon Buri,Sala Ya,FALSE
+4,1,0,477,ชานเมือง,4002,ธนบุรี,4009,ศาลายา,Thon Buri,Sala Ya,FALSE
+4,1,0,475,ชานเมือง,4002,ธนบุรี,4009,ศาลายา,Thon Buri,Sala Ya,FALSE
+4,1,0,473,ชานเมือง,4002,ธนบุรี,4009,ศาลายา,Thon Buri,Sala Ya,FALSE
+4,1,0,471,ชานเมือง,4002,ธนบุรี,4009,ศาลายา,Thon Buri,Sala Ya,FALSE
+4,2,0,474,ชานเมือง,4009,ศาลายา,4002,ธนบุรี,Sala Ya,Thon Buri,FALSE
+4,2,0,478,ชานเมือง,4009,ศาลายา,4002,ธนบุรี,Sala Ya,Thon Buri,FALSE
+4,2,0,480,ชานเมือง,4009,ศาลายา,4002,ธนบุรี,Sala Ya,Thon Buri,FALSE
+4,2,0,476,ชานเมือง,4009,ศาลายา,4002,ธนบุรี,Sala Ya,Thon Buri,FALSE
+4,2,0,472,ชานเมือง,4009,ศาลายา,4002,ธนบุรี,Sala Ya,Thon Buri,FALSE
+5,1,0,9085,ด่วน,1001,กรุงเทพ,4270,ชุมทางทุ่งสง,Bangkok,Thung Song Junction,TRUE
+5,1,0,949,ท้องถิ่น,4347,ชุมทางหาดใหญ่,4374,ปาดังเบซาร์,Hat Yai Junction,Padang Besar,TRUE
+5,1,0,947,ท้องถิ่น,4347,ชุมทางหาดใหญ่,4374,ปาดังเบซาร์,Hat Yai Junction,Padang Besar,TRUE
+5,1,1,43,ด่วนพิเศษ,1001,กรุงเทพ,4239,สุราษฎร์ธานี,Bangkok,Surat Thani,FALSE
+5,1,2,261,ธรรมดา,1001,กรุงเทพ,4118,หัวหิน,Bangkok,Hua Hin,FALSE
+5,1,3,171,เร็ว,1001,กรุงเทพ,4432,สุไหงโก-ลก,Bangkok,Sungai Kolok,FALSE
+5,1,4,31,ด่วนพิเศษ CNR,1001,กรุงเทพ,4347,ชุมทางหาดใหญ่,Bangkok,Hat Yai Junction,FALSE
+5,1,5,45,*ด่วนพิเศษ,1001,กรุงเทพ,4374,ปาดังเบซาร์,Bangkok,Padang Besar,TRUE
+5,1,5,37,*ด่วนพิเศษ,1001,กรุงเทพ,4432,สุไหงโก-ลก,Bangkok,Sungai Kolok,FALSE
+5,1,6,169,เร็ว,1001,กรุงเทพ,4402,ยะลา,Bangkok,Yala,TRUE
+5,1,7,355,พิเศษชานเมือง,1001,กรุงเทพ,4042,สุพรรณบุรี,Bangkok,Suphan Buri,FALSE
+5,1,8,83,ด่วน,1001,กรุงเทพ,4289,ตรัง,Bangkok,Trang,FALSE
+5,1,8,497,ธรรมดา,1001,กรุงเทพ,3075,กบินทร์บุรี,Bangkok,Kabin Buri,FALSE
+5,1,9,173,เร็ว,1001,กรุงเทพ,4308,นครศรีธรรมราช,Bangkok,Nakhon Si Thammarat,TRUE
+5,1,10,167,เร็ว,1001,กรุงเทพ,4294,กันตัง,Bangkok,Kantang,FALSE
+5,1,11,85,ด่วน,1001,กรุงเทพ,4308,นครศรีธรรมราช,Bangkok,Nakhon Si Thammarat,FALSE
+5,1,12,39,ด่วนพิเศษ,1001,กรุงเทพ,4239,สุราษฎร์ธานี,Bangkok,Surat Thani,FALSE
+5,1,13,41,ด่วนพิเศษ,1001,กรุงเทพ,4402,ยะลา,Bangkok,Yala,TRUE
+5,1,14,485,ท้องถิ่น,4020,ชุมทางหนองปลาดุก,4077,น้ำตก,Nong Pla Duk Junction,Nam Tok,FALSE
+5,1,15,255,ธรรมดา,4002,ธนบุรี,4203,หลังสวน,Thon Buri,Lang Suan,FALSE
+5,1,16,257,ธรรมดา,4002,ธนบุรี,4077,น้ำตก,Thon Buri,Nam Tok,FALSE
+5,1,17,251,ธรรมดา,4002,ธนบุรี,4142,ประจวบคีรีขันธ์,Thon Buri,Prachuap Khiri Khan,FALSE
+5,1,18,259,ธรรมดา,4002,ธนบุรี,4077,น้ำตก,Thon Buri,Nam Tok,FALSE
+5,1,19,353,ธรรมดา,4002,ธนบุรี,4016,นครปฐม,Thon Buri,Nakhon Pathom,FALSE
+5,1,20,351,ธรรมดา,4002,ธนบุรี,4089,ราชบุรี,Thon Buri,Rachaburi,FALSE
+5,1,21,177,เร็ว,4002,ธนบุรี,4203,หลังสวน,Thon Buri,Lang Suan,TRUE
+5,1,22,447,ท้องถิ่น,4239,สุราษฎร์ธานี,4432,สุไหงโก-ลก,Surat Thani,Sungai Kolok,FALSE
+5,1,23,451,ท้องถิ่น,4308,นครศรีธรรมราช,4432,สุไหงโก-ลก,Nakhon Si Thammarat,Sungai Kolok,FALSE
+5,1,24,463,ท้องถิ่น,4325,พัทลุง,4432,สุไหงโก-ลก,Phatthalung,Sungai Kolok,FALSE
+5,1,25,175,เร็ว,4347,ชุมทางหาดใหญ่,4432,สุไหงโก-ลก,Hat Yai Junction,Sungai Kolok,FALSE
+5,1,26,453,ท้องถิ่น,4402,ยะลา,4432,สุไหงโก-ลก,Yala,Sungai Kolok,FALSE
+5,1,27,445,ท้องถิ่น,4186,ชุมพร,4270,ชุมทางทุ่งสง,Chumphon,Thung Song Junction,FALSE
+5,1,28,455,ท้องถิ่น,4308,นครศรีธรรมราช,4402,ยะลา,Nakhon Si Thammarat,Yala,FALSE
+5,1,30,489,ท้องถิ่น,4239,สุราษฎร์ธานี,4238,คีรีรัฐนิคม,Surat Thani,Khiri Ratthanikhom,FALSE
+5,2,0,950,ชานเมือง,4374,ปาดังเบซาร์,4347,ชุมทางหาดใหญ่,Padang Besar,Hat Yai Junction,TRUE
+5,2,0,9086,ด่วน,4270,ชุมทางทุ่งสง,1001,กรุงเทพ,Thung Song Junction,Bangkok,TRUE
+5,2,0,948,ชานเมือง,4374,ปาดังเบซาร์,4347,ชุมทางหาดใหญ่,Padang Besar,Hat Yai Junction,TRUE
+5,2,1,174,เร็ว,4308,นครศรีธรรมราช,1001,กรุงเทพ,Nakhon Si Thammarat,Bangkok,TRUE
+5,2,2,168,เร็ว,4294,กันตัง,1001,กรุงเทพ,Kantang,Bangkok,FALSE
+5,2,3,42,ด่วนพิเศษ,4402,ยะลา,1001,กรุงเทพ,Yala,Bangkok,TRUE
+5,2,4,44,ด่วนพิเศษ,4239,สุราษฎร์ธานี,1001,กรุงเทพ,Surat Thani,Bangkok,FALSE
+5,2,5,86,ด่วน,4308,นครศรีธรรมราช,1001,กรุงเทพ,Nakhon Si Thammarat,Bangkok,FALSE
+5,2,6,498,ธรรมดา,3075,กบินทร์บุรี,1001,กรุงเทพ,Kabin Buri,Bangkok,FALSE
+5,2,6,170,เร็ว,4402,ยะลา,1001,กรุงเทพ,Yala,Bangkok,TRUE
+5,2,7,84,ด่วน,4289,ตรัง,1001,กรุงเทพ,Trang,Bangkok,FALSE
+5,2,8,172,เร็ว,4432,สุไหงโก-ลก,1001,กรุงเทพ,Sungai Kolok,Bangkok,FALSE
+5,2,9,356,พิเศษชานเมือง,4042,สุพรรณบุรี,1001,กรุงเทพ,Suphan Buri,Bangkok,FALSE
+5,2,10,46,*ด่วนพิเศษ,4374,ปาดังเบซาร์,1001,กรุงเทพ,Padang Besar,Bangkok,TRUE
+5,2,10,38,*ด่วนพิเศษ,4432,สุไหงโก-ลก,1001,กรุงเทพ,Sungai Kolok,Bangkok,FALSE
+5,2,11,32,ด่วนพิเศษ CNR,4347,ชุมทางหาดใหญ่,1001,กรุงเทพ,Hat Yai Junction,Bangkok,FALSE
+5,2,12,262,ธรรมดา,4118,หัวหิน,1001,กรุงเทพ,Hua Hin,Bangkok,FALSE
+5,2,13,40,ด่วนพิเศษ,4239,สุราษฎร์ธานี,1001,กรุงเทพ,Surat Thani,Bangkok,FALSE
+5,2,14,490,ท้องถิ่น,4238,คีรีรัฐนิคม,4239,สุราษฎร์ธานี,Khiri Ratthanikhom,Surat Thani,FALSE
+5,2,16,456,ท้องถิ่น,4402,ยะลา,4308,นครศรีธรรมราช,Yala,Nakhon Si Thammarat,FALSE
+5,2,17,446,ท้องถิ่น,4270,ชุมทางทุ่งสง,4186,ชุมพร,Thung Song Junction,Chumphon,FALSE
+5,2,18,448,ท้องถิ่น,4432,สุไหงโก-ลก,4239,สุราษฎร์ธานี,Sungai Kolok,Surat Thani,FALSE
+5,2,19,454,ท้องถิ่น,4432,สุไหงโก-ลก,4402,ยะลา,Sungai Kolok,Yala,FALSE
+5,2,20,176,เร็ว,4432,สุไหงโก-ลก,4347,ชุมทางหาดใหญ่,Sungai Kolok,Hat Yai Junction,FALSE
+5,2,21,452,ท้องถิ่น,4432,สุไหงโก-ลก,4308,นครศรีธรรมราช,Sungai Kolok,Nakhon Si Thammarat,FALSE
+5,2,22,464,ท้องถิ่น,4432,สุไหงโก-ลก,4325,พัทลุง,Sungai Kolok,Phatthalung,FALSE
+5,2,23,178,เร็ว,4203,หลังสวน,4002,ธนบุรี,Lang Suan,Thon Buri,TRUE
+5,2,24,354,ธรรมดา,4016,นครปฐม,4002,ธนบุรี,Nakhon Pathom,Thon Buri,FALSE
+5,2,25,352,ธรรมดา,4089,ราชบุรี,4002,ธนบุรี,Rachaburi,Thon Buri,FALSE
+5,2,26,260,ธรรมดา,4077,น้ำตก,4002,ธนบุรี,Nam Tok,Thon Buri,FALSE
+5,2,27,252,ธรรมดา,4142,ประจวบคีรีขันธ์,4002,ธนบุรี,Prachuap Khiri Khan,Thon Buri,FALSE
+5,2,28,254,ธรรมดา,4203,หลังสวน,4002,ธนบุรี,Lang Suan,Thon Buri,FALSE
+5,2,29,258,ธรรมดา,4077,น้ำตก,4002,ธนบุรี,Nam Tok,Thon Buri,FALSE
+5,2,30,486,ท้องถิ่น,4077,น้ำตก,4020,ชุมทางหนองปลาดุก,Nam Tok,Nong Pla Duk Junction,FALSE
