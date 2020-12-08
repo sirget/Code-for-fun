@@ -1,3 +1,11 @@
-997 Bangkok BanPluTaLuang
-418 TalatNongKhai NakhonRatchasima
-
+2000 OSPF 1 Get Love
+2004 ABC 3 Ant Run
+2009 EIGRP 2 Cat Walk
+2005 EIGRP 1 Mode Easy
+2006 RIPv2 1 Apple Big
+2007 RIP 1 Pineapple Monalis
+2004 BGP 1 orange Cool
+2003 Static 1 Red Empty
+2008 Static 3 Green Sanook
+2009 ABD 1 Get Ploy
+2005 RIP 2 Blue Kappa
