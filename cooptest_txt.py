@@ -1,21 +1,12 @@
 file = open('./test_data.txt')
 
-year = []
-type = []
-rank = []
-name = []
-lname = []
+
 datalist = []
 
 for data in file:
     list = data.split(" ")
     datalist.append(list)
-    year.append(list[0])
-    type.append(list[1])
-    rank.append(list[2])
-    name.append(list[3])
     list[4] = list[4].rstrip("\n")
-    lname.append(list[4])
 
 
 def showlistfrom(start, end):
@@ -24,8 +15,8 @@ def showlistfrom(start, end):
             print(i)
 
 
-def sort():
-    datalist.sort(key=lambda x: len(x[1]))
+def sortbylen():
+    datalist.sort(key=lambda x: len(x[3]))
 
 
 def showlist():
@@ -34,6 +25,6 @@ def showlist():
 
 
 # print(datalist)
-sort()
+sortbylen()
 showlist()
 #showlistfrom("2005", "2009")
