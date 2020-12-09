@@ -21,6 +21,26 @@ def closefile():
     file.close()
 
 
+def add(y, c, q, s):
+    datalist.append([y, c, q, s])
+
+
+def remove():
+    index = 0
+    for i in datalist:
+        if i[1] == "Thailand":
+            datalist.pop(index)
+        index += 1
+
+
+def rewrtie():
+    wr = open("./rewrite.txt", "w")
+    for data in datalist:
+        wr.write(data[0] + " " + data[1] + " " +
+                 data[2] + " " + data[3] + "\n")
+    wr.close()
+
+
 def printlist():
     if(len(datalist) == 0):
         print("Empty list")
@@ -59,3 +79,7 @@ while(True):
     if command == "sortmedal":
         sortdata(medal_list, 1, True)
         sortdata(medal_list, 1, False)
+    if command == "re":
+        rewrtie()
+    if command == "move":
+        remove()
