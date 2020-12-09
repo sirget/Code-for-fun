@@ -1,15 +1,14 @@
 #filename = "./test_data.txt"
 #filename = "./medals.txt"
-filename = "./data_train.json"
+filename = "./datatraincsv.txt"
 
-file = open(filename)
-
+file = open(filename, "r", encoding="utf8")
 
 datalist = []
 
 for data in file:
-    list = data.split(" ")
-    list[4] = list[4].rstrip("\n")
+    list = data.split(",")
+    #list[4] = list[4].rstrip("\n")
     datalist.append(list)
 
 
@@ -20,7 +19,7 @@ def showlistfrom(start, end):
 
 
 def sortbylen():
-    datalist.sort(key=lambda x: len(x[3]))
+    datalist.sort(key=lambda x: int(x[3]))
 
 
 def showlist():
@@ -29,6 +28,6 @@ def showlist():
 
 
 # print(datalist)
-# sortbylen()
-# showlist()
+sortbylen()
+showlist()
 #showlistfrom("2005", "2009")
