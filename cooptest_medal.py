@@ -15,6 +15,7 @@ def read():
         else:
             datalist.append(tmp)
     print("Read Complete")
+    print(column)
 
 
 def closefile():
@@ -35,6 +36,8 @@ def remove():
 
 def rewrtie():
     wr = open("./rewrite.txt", "w")
+    wr.write(column[0][0] + " " + column[0][1] + " " +
+             column[0][2] + " " + column[0][3] + "\n")
     for data in datalist:
         wr.write(data[0] + " " + data[1] + " " +
                  data[2] + " " + data[3] + "\n")
