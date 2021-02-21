@@ -1,0 +1,147 @@
+<html>
+  <head> </head>
+
+  <body>
+    <!--ชื่อโปรแกรม-->
+    <h1>Triangle Test</h1>
+    <form id="frm">
+      <!--ช่องกรอกด้านของสามเหลี่ยมด้านที่ 1-->
+      <label for="input1">Side1:</label>
+      <input
+        type="text"
+        id="input1"
+        name="input1"
+        onchange="FormChecking()"
+      /><br />
+      <!--ช่องกรอกด้านของสามเหลี่ยมด้านที่ 2-->
+      <label for="input2">Side2:</label>
+      <input
+        type="text"
+        id="input2"
+        name="input2"
+        onchange="FormChecking()"
+      /><br />
+      <!--ช่องกรอกด้านของสามเหลี่ยมด้านที่ 3-->
+      <label for="input3">Side3:</label>
+      <input
+        type="text"
+        id="input3"
+        name="input3"
+        onchange="FormChecking()"
+      /><br />
+    </form>
+    <!--ปุ่ม submit-->
+    <button id="submit" disabled>Submit</button>
+    <!--แสดง output-->
+    <p id="output">None</p>
+
+    <script>
+      /*Global variable*/
+      var side1;
+      var side2;
+      var side3;
+      var result;
+      //เช็ค input ที่รับเข้ามาทาง form
+      function FormChecking() { 
+        var input1 = document.getElementById("input1").value;
+        var input2 = document.getElementById("input2").value;
+        var input3 = document.getElementById("input3").value;
+        if (InputDataChecking(input1)) {
+          side1 = parseInt(input1);
+        } else {
+          side1 = undefined;
+        }
+        if (InputDataChecking(input2)) {
+          side2 = parseInt(input2);
+        } else {
+          side1 = undefined;
+        }
+        if (InputDataChecking(input3)) {
+          side3 = parseInt(input3);
+        } else {
+          side1 = undefined;
+        }
+        console.log(side1);
+        console.log(side2);
+        console.log(side3);
+        //ถ้าข้อมูลถูกต้องสามารถกดปุ่มได้ ถ้าไม่ถูกจะกดไม่ได้
+        if (
+          typeof side1 == "number" &&
+          typeof side2 == "number" &&
+          typeof side3 == "number"
+        ) {
+          document.getElementById("submit").disabled = false;
+        } else {
+          document.getElementById("submit").disabled = true;
+          document.getElementById("output").innerHTML = "None";
+        }
+      }
+      //ใช้เช็คค่าของด้านสามเหลี่ยมที่กรอกเข้ามาว่าเป็นจำนวนเต็มบวก
+      function InputDataChecking(side) {
+        side = parseInt(side);
+        if (side >= 0) {
+          return true;
+        }
+        return false;
+      }
+      //กดปุ่ม submit เพื่อคำนวณค่าจากทั้งสามด้าน
+      document.getElementById("submit").addEventListener("click", function () {
+        TrinangleChecking(side1, side2, side3);
+      });
+      //เช็คว่าด้านที่รับเข้ามาเป็นรูปสามเหลี่ยม
+      function TrinangleChecking(side1, side2, side3) {
+        if (
+          side1 + side2 <= side3 ||
+          side1 + side3 <= side2 ||
+          side2 + side3 <= side1
+        ) {
+          document.getElementById("output").innerHTML = "Not triangle";
+        } else {
+          document.getElementById("output").innerHTML = TriangleTypeChecking();
+        }
+      }
+      //เช็คว่าเป็นสามเหลี่ยมประเภทไหน
+      function TriangleTypeChecking() {
+        if (EquilateralTriangleChecking(side1, side2, side3)) {
+          result = "Equilateral Triangle";
+        } else if (IsoscelesTriangleChecking(side1, side2, side3)) {
+          result = "Isosceles Triangle";
+        } else if (RightTriangleChecking(side1, side2, side3)) {
+          result = "Right Triangle";
+        } else {
+          result = "Scalene Triangle";
+        }
+        return result;
+      }
+      //คำนวณเช็คสามเหลี่ยมหน้าจั่ว
+      function IsoscelesTriangleChecking(side1, side2, side3) {
+        if (side1 == side2 || side2 == side3 || side3 == side1) {
+          return true;
+        } else {
+          return false;
+        }
+      }
+      //คำนวณเช็คสามเหลี่ยมด้านเท่า
+      function EquilateralTriangleChecking(side1, side2, side3) {
+        if (side1 == side2 && side1 == side3 && side2 == side3) {
+          return true;
+        } else {
+          return false;
+        }
+      }
+      //คำนวณเช็คสามเหลี่ยมมุมฉาก
+      function RightTriangleChecking(side1, side2, side3) {
+        var test = new Array(side1, side2, side3);
+        test.sort();
+        if (
+          Math.pow(test[0], 2) + Math.pow(test[1], 2) ==
+          Math.pow(test[2], 2)
+        ) {
+          return true;
+        } else {
+          return false;
+        }
+      }
+    </script>
+  </body>
+</html>
